@@ -7,9 +7,7 @@
 <br>
 
 <p align="center">
-  <details>
-    <summary>🎵 <b>Click here to see what I'm listening to on Spotify</b></summary>
-    <br>
-    <a href="[https://last.fm](https://www.last.fm/user/pawfue)" target="_blank">👉 View my live listening history directly on Last.fm</a>
-  </details>
+  <a href="https://last.fm" target="_blank">
+    <img src="https://shields.io" alt="Spotify Status">
+  </a>
 </p>
