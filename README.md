@@ -7,9 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://shields.io" alt="Spotify Badge">
-  <br>
-  <a href="https://open.spotify.com">
-    <img src="https://kittinanx.com" alt="Statut Musique">
+  <a href="https://last.fm">
+    <img src="https://shields.io" alt="Spotify Status">
   </a>
 </p>
