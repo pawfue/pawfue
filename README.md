@@ -7,8 +7,9 @@
 <br>
 
 <p align="center">
-  🎵 <b>Activité Spotify</b> : 
-  <a href="https://scrobble.club">
-    <img src="https://shields.io" alt="Spotify Status">
-  </a>
+  <details>
+    <summary>🎵 <b>Click here to see what I'm listening to on Spotify</b></summary>
+    <br>
+    <a href="https://last.fm" target="_blank">👉 View my live listening history directly on Last.fm</a>
+  </details>
 </p>
