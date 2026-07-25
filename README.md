@@ -7,7 +7,9 @@
 <br>
 
 <p align="center">
-  <a href="https://spotify.com">
-    <img src="https://vercel.app" alt="Spotify Now Playing">
+  <img src="https://shields.io" alt="Spotify Badge">
+  <br>
+  <a href="https://open.spotify.com">
+    <img src="https://kittinanx.com" alt="Statut Musique">
   </a>
 </p>
