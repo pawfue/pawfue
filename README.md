@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://last.fm" target="_blank">
-    <img src="https://shields.io" alt="Spotify Status">
+  <a href="https://www.last.fm/user/pawfue" target="_blank">
+    <img src="https://vercel.app" alt="Mon Spotify en direct">
   </a>
 </p>
