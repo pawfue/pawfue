@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://last.fm">
-    <img src="https://shields.io" alt="Spotify Status">
+  <a href="https://discord.com">
+    <img src="https://cnrad.dev" alt="Mon Statut Spotify">
   </a>
 </p>
