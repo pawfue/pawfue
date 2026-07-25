@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://www.last.fm/user/pawfue" target="_blank">
-    <img src="https://u.cubeupload.com/RAAAAAA/tlchargement47Photor.png" alt="Mon Spotify en direct">
+    <img src="[https://u.cubeupload.com/RAAAAAA/tlchargement47Photor.png](https://u.cubeupload.com/RAAAAAA/cdtlchargement47Photor.png)" alt="Mon Spotify en direct">
   </a>
 </p>
