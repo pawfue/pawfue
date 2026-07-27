@@ -10,8 +10,7 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      i loves muffinssssss
-      Derpy is my FictoKin!
+      i loves muffins! Derpy is my FictoKin!
     </td>
   </tr>
 
