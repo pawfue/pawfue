@@ -2,7 +2,7 @@
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      hpi, schizophrenic, autistic, anxious, INFP! DerpyShy shipper
+      hpi, schizophrenic, autistic, anxious, INFP! DerpyShy shipper learning trading, and studying digi art! 
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://guns.lol/pawfue">
