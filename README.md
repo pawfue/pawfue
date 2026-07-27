@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/98/50/3a/98503a9a7fe69a5465c66e8e450989ea.gif" alt="Description" width="300"/>
+  <img src="https://u.cubeupload.com/RAAAAAA/DerpyRocksbyAshleyNi.gif" alt="Description" width="300"/>
 </p>
