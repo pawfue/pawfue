@@ -10,7 +10,7 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      Texte droite 1
+      i loves muffinssssss Derpy is my FictoKin!
     </td>
   </tr>
 
