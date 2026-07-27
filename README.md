@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.last.fm/user/pawfue" target="_blank">
-    <img src="https://u.cubeupload.com/RAAAAAA/5f00fc49cc5767211a07.gif" alt="Mon Spotify en direct" width="80%">
+    <img src="https://tenor.com/fr/view/derpy-hooves-dance-gif-15259513" alt="Mon Spotify en direct" width="80%">
   
   </a>
 </p>
