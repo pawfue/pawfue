@@ -24,13 +24,13 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      Texte droite 2
+      im a furry hehe, didnt drew a fursona yet but it will be a shark and he will be a male hehe
     </td>
   </tr>
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      Texte gauche 3
+      my pronouns are he/she/cupcake /jk
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://www.tiktok.com/@pawfue">
@@ -38,13 +38,13 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      Texte droite 3
+      i really love ponytown all my heart best social game ever ( never will forget dusttown too )
     </td>
   </tr>
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      Texte gauche 4
+      my fav songggggg!!
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://open.spotify.com/intl-fr/track/00W2ur3pdHI95muPTwvpns?si=8dfdebdf4e6c4b00">
@@ -52,7 +52,7 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      Texte droite 4
+      just fire !
     </td>
   </tr>
 
