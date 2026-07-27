@@ -19,6 +19,6 @@
 </p>
 
 <audio controls>
-<source src="https://github.com/user-attachments/files/30426969/SpotiDownloader.com.-.489.-.Hardstyle.-.H.Y.R.A.mp3">
-Ton navigateur ne supporte pas l'élément audio.
+  <source src="https://github.com/user-attachments/files/30427041/SpotiDownloader.com.-.489.-.Hardstyle.-.H.Y.R.A.mp3" type="audio/mpeg">
+  Ton navigateur ne supporte pas l'élément audio.
 </audio>
