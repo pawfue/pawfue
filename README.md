@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://guns.lol/pawfue">
     <img src="https://u.cubeupload.com/RAAAAAA/Derpyistryingtogetam.png" alt="Aperçu de mon site" width="80%">
+    <img src="https://u.cubeupload.com/RAAAAAA/5f00fc49cc5767211a07.gif" alt="Aperçu de mon site" width="80%">
   </a>
 </p>
 
