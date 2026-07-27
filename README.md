@@ -18,4 +18,7 @@
   <img src="https://u.cubeupload.com/RAAAAAA/DerpyRocksbyAshleyNi.gif" alt="Description" width="20%"/>
 </p>
 
-[![Écouter 489 - Hardstyle - H Y R A](https://img.shields.io/badge/▶_Écouter-Hardstyle__--__H_Y_R_A-ff0055?style=for-the-badge&logo=spotify)](http://googleusercontent.com/file_content/0)
+<audio controls>
+  <source src="https://github.com/user-attachments/files/30426969/SpotiDownloader.com.-.489.-.Hardstyle.-.H.Y.R.A.mp3">
+  Ton navigateur ne supporte pas l'élément audio.
+</audio>
