@@ -18,4 +18,4 @@
   <img src="https://u.cubeupload.com/RAAAAAA/DerpyRocksbyAshleyNi.gif" alt="Description" width="20%"/>
 </p>
 
-[![Écouter 489 - Hardstyle - H Y R A](https://img.shields.io/badge/▶_Écouter-Hardstyle__--__H_Y_R_A-ff0055?style=for-the-badge&logo=spotify)](https://github.com/user-attachments/files/30427070/SpotiDownloader.com.-.489.-.Hardstyle.-.H.Y.R.A.mp3)
+[![Listen on Spotify](https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-fr/track/00W2ur3pdHI95muPTwvpns?si=8dfdebdf4e6c4b00)
