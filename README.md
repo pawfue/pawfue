@@ -30,7 +30,7 @@
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      my pronouns are he/she/cupcake /jk
+      my pronouns are he/she/cupcake /jk french but speak english learning russian, arabic, persian, japanese!
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://www.tiktok.com/@pawfue">
