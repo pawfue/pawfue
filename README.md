@@ -24,7 +24,7 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      im a furry hehe, didnt drew a fursona yet but it will be a shark and he will be a male hehe
+      im a furry hehe, my fursona is a shark and his name is Same ( サメ ) 
     </td>
   </tr>
 
