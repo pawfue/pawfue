@@ -16,7 +16,7 @@
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      my favs fandoms are : mlp, tadc, md, beastars, forsaken, mob psycho, pokemon, slime rancher!
+      my favs fandoms are : mlp, tadc, md, beastars, forsaken, mob psycho, pokemon, slime rancher, undertale and deltarune!
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://discord.gg/fUEKRhs7Gf" target="_blank">
