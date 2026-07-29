@@ -2,7 +2,7 @@
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      hpi, schizophrenic, autistic, anxious, INFP! DerpyShy shipper learning trading, and studying digi art! 
+      ‿ִ⠀𐂯ॱ𓏽 𝘩𝘱𝘪, 𝘴𝘤𝘩𝘪𝘻𝘰𝘱𝘩𝘳𝘦𝘯𝘪𝘤, 𝘢𝘶𝘵𝘪𝘴𝘵𝘪𝘤, 𝘢𝘯𝘹𝘪𝘰𝘶𝘴, 𝘐𝘕𝘍𝘗! 𝘋𝘦𝘳𝘱𝘺𝘚𝘩𝘺 𝘴𝘩𝘪𝘱𝘱𝘦𝘳 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘵𝘳𝘢𝘥𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘥𝘪𝘨𝘪 𝘢𝘳𝘵.ᐟ     ◜ ◌ ⃘ 
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://guns.lol/pawfue">
@@ -10,7 +10,11 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      i loves muffins! Derpy is my FictoKin!
+       ‎ᰍ ◠ ⌗ ﾟ 𝘪 𝘭𝘰𝘷𝘦𝘴 𝘮𝘶𝘧𝘧𝘪𝘯𝘴! 𝘋𝘦𝘳𝘱𝘺 𝘪𝘴 𝘮𝘺 𝘍𝘪𝘤𝘵𝘰𝘒𝘪𝘯!
+                                  ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
     </td>
   </tr>
 
