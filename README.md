@@ -52,7 +52,7 @@
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-         ﾟ ˖  ꕀ 𝘮𝘺 𝘧𝘢𝘷 𝘴𝘰𝘯𝘨𝘨𝘨𝘨𝘨𝘨!! ꒰๑ ´` ๑꒱⠀ 𓂂  
+         ﾟ ˖  ꕀ 𝘮𝘺 𝘧𝘢𝘷 𝘴𝘰𝘯𝘨𝘨𝘨𝘨𝘨𝘨!! ㆍ ⸝⸝ 
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://open.spotify.com/intl-fr/track/00W2ur3pdHI95muPTwvpns?si=8dfdebdf4e6c4b00">
