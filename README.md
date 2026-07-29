@@ -2,7 +2,7 @@
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      ‿ִ⠀𐂯ॱ𓏽 𝘩𝘱𝘪, 𝘴𝘤𝘩𝘪𝘻𝘰𝘱𝘩𝘳𝘦𝘯𝘪𝘤, 𝘢𝘶𝘵𝘪𝘴𝘵𝘪𝘤, 𝘢𝘯𝘹𝘪𝘰𝘶𝘴, 𝘐𝘕𝘍𝘗! 𝘋𝘦𝘳𝘱𝘺𝘚𝘩𝘺 𝘴𝘩𝘪𝘱𝘱𝘦𝘳 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘵𝘳𝘢𝘥𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘥𝘪𝘨𝘪 𝘢𝘳𝘵.ᐟ     ◜ ◌ ⃘ 
+      ‿ִ⠀𐂯ॱ𓏽 𝘩𝘱𝘪, 𝘴𝘤𝘩𝘪𝘻𝘰𝘱𝘩𝘳𝘦𝘯𝘪𝘤, 𝘢𝘶𝘵𝘪𝘴𝘵𝘪𝘤, 𝘢𝘯𝘹𝘪𝘰𝘶𝘴, 𝘐𝘕𝘍𝘗! 𝘋𝘦𝘳𝘱𝘺𝘚𝘩𝘺 𝘴𝘩𝘪𝘱𝘱𝘦𝘳 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘵𝘳𝘢𝘥𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘥𝘪𝘨𝘪 𝘢𝘳𝘵.ᐟ  ᧔ ෆ ᧓
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://guns.lol/pawfue">
@@ -10,17 +10,19 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-       ‎ᰍ ◠ ⌗ ﾟ 𝘪 𝘭𝘰𝘷𝘦𝘴 𝘮𝘶𝘧𝘧𝘪𝘯𝘴! 𝘋𝘦𝘳𝘱𝘺 𝘪𝘴 𝘮𝘺 𝘍𝘪𝘤𝘵𝘰𝘒𝘪𝘯!
-╱|、
-(˚ˎ 。7
-|、˜〵
-じしˍ,)ノ
-    </td>
+       ‎ᰍ ◠ ⌗ ﾟ 𝘪 𝘭𝘰𝘷𝘦𝘴 𝘮𝘶𝘧𝘧𝘪𝘯𝘴! 𝘋𝘦𝘳𝘱𝘺 𝘪𝘴 𝘮𝘺 𝘍𝘪𝘤𝘵𝘰𝘒𝘪𝘯!<br>
+.　. ✦　. ★⋆. ࿐࿔ . ╱|、<br> 
+　　.　 　✦  ˚　.(˚ˎ 。7<br>
+.˚  　　. 　 ˚　.✦|、˜〵<br>
+.⠀✦ ⠀* ⠀.　　じしˍ,)ノ <br>
+
+</td>
+
   </tr>
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      my favs fandoms are : mlp, tadc, md, beastars, forsaken, mob psycho, pokemon, slime rancher, undertale and deltarune!
+    ︵ ︵  𝘮𝘺 𝘧𝘢𝘷𝘴 𝘧𝘢𝘯𝘥𝘰𝘮𝘴 𝘢𝘳𝘦 : 𝘮𝘭𝘱, 𝘵𝘢𝘥𝘤, 𝘮𝘥, 𝘩𝘵𝘧, 𝘢𝘯𝘪𝘮𝘢𝘭 𝘩𝘰𝘴𝘱𝘪𝘵𝘢𝘭, 𝘨𝘵𝘢𝘝, 𝘨𝘥, 𝘮𝘤, 𝘨𝘦𝘯𝘴𝘩𝘪𝘯𝘨 𝘪𝘮𝘱𝘢𝘤𝘵,  𝘴𝘢𝘯𝘳𝘪𝘰, 𝘮𝘰𝘴𝘵 𝘯𝘪𝘯𝘵𝘦𝘯𝘥𝘰 𝘨𝘢𝘮𝘦𝘴, 𝘣𝘦𝘢𝘴𝘵𝘢𝘳𝘴, 𝘧𝘰𝘳𝘴𝘢𝘬𝘦𝘯, 𝘮𝘰𝘣 𝘱𝘴𝘺𝘤𝘩𝘰, 𝘱𝘰𝘬𝘦𝘮𝘰𝘯, 𝘴𝘭𝘪𝘮𝘦 𝘳𝘢𝘯𝘤𝘩𝘦𝘳, 𝘶𝘯𝘥𝘦𝘳𝘵𝘢𝘭𝘦 𝘢𝘯𝘥 𝘥𝘦𝘭𝘵𝘢𝘳𝘶𝘯𝘦! ˎˊ˗
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://discord.gg/fUEKRhs7Gf" target="_blank">
@@ -28,13 +30,14 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      im a furry hehe, my fursona is a shark and his name is Same ( サメ ) 
+     𓂂 ˖ㅤㅤ۫ㅤ 𝘪𝘮 𝘢 𝘧𝘶𝘳𝘳𝘺 𝘩𝘦𝘩𝘦, 𝘮𝘺 𝘧𝘶𝘳𝘴𝘰𝘯𝘢 𝘪𝘴 𝘢 𝘴𝘩𝘢𝘳𝘬 𝘢𝘯𝘥 𝘩𝘪𝘴 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘚𝘢𝘮𝘦 ( サメ )  ✙﹒
     </td>
   </tr>
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      my pronouns are he/she/cupcake /jk french but speak english learning russian, arabic, persian, japanese!
+   ꒰ 𝘮𝘺 𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴 𝘢𝘳𝘦 𝘩𝘦/𝘴𝘩𝘦 ꒱ <br>
+     ﹐ 𝘧𝘳𝘦𝘯𝘤𝘩 𝘣𝘶𝘵 𝘴𝘱𝘦𝘢𝘬 𝘦𝘯𝘨𝘭𝘪𝘴𝘩 ⸝⸝
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://org.atabook.org">
@@ -42,13 +45,14 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      i really love ponytown all my heart best social game ever ( never will forget dusttown too )
+      ılıl﹕𖥻﹒𝘪 𝘳𝘦𝘢𝘭𝘭𝘺 𝘭𝘰𝘷𝘦 𝘱𝘰𝘯𝘺𝘵𝘰𝘸𝘯 𝘢𝘭𝘭 𝘮𝘺 𝘩𝘦𝘢𝘳𝘵 .✦ <br> 
+    ♪  ﹒ ┊ 𝘣𝘦𝘴𝘵 𝘴𝘰𝘤𝘪𝘢𝘭 𝘨𝘢𝘮𝘦 𝘦𝘷𝘦𝘳 　 . 　 ✦
     </td>
   </tr>
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-      my fav songggggg!!
+         ﾟ ˖  ꕀ 𝘮𝘺 𝘧𝘢𝘷 𝘴𝘰𝘯𝘨𝘨𝘨𝘨𝘨𝘨!! ꒰๑ ´` ๑꒱⠀ 𓂂  
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
       <a href="https://open.spotify.com/intl-fr/track/00W2ur3pdHI95muPTwvpns?si=8dfdebdf4e6c4b00">
@@ -56,7 +60,7 @@
       </a>
     </td>
     <td width="30%" align="right" valign="middle" style="border: none;">
-      just fire !
+      ♪ ⸝⸝ 𝘫𝘶𝘴𝘵 𝘧𝘪𝘳𝘦 ! ㅤ࣭ ㅤׂ 
     </td>
   </tr>
 
