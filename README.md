@@ -33,7 +33,7 @@
       my pronouns are he/she/cupcake /jk french but speak english learning russian, arabic, persian, japanese!
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <a href="https://www.tiktok.com/@pawfue">
+      <a href="https://org.atabook.org">
         <img src="https://u.cubeupload.com/RAAAAAA/DerpyRocksbyAshleyNi.gif" alt="Description" width="40%"/>
       </a>
     </td>
