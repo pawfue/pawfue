@@ -57,7 +57,7 @@
       ♯ ⋮ 𝘣𝘰𝘰𝘮 𝘣𝘰𝘰𝘮 𝘢𝘯𝘥 𝘳𝘢𝘪𝘯𝘣𝘰𝘸𝘴!!! ㆍ ⸝⸝ 
     </td>
  <td width="40%" align="center" valign="middle" style="border: none;">
-      <a href="https://pvw.straw.page/">
+      <a href="https://eyesdontlie.straw.page">
         <img src="https://u.cubeupload.com/RAAAAAA/85aDerpyhoovesMylittlep.png" alt="Description" width="40%"/>
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
