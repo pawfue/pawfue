@@ -52,16 +52,21 @@
 
   <tr style="border: none;">
     <td width="30%" align="left" valign="middle" style="border: none;">
-         ﾟ ˖  ꕀ 𝘮𝘺 𝘧𝘢𝘷 𝘴𝘰𝘯𝘨𝘨𝘨𝘨𝘨𝘨!! ㆍ ⸝⸝ 
+         ﾟ ˖  ꕀ 𝘪 𝘭𝘰𝘷𝘦 𝘯𝘪𝘨𝘩𝘵𝘤𝘰𝘳𝘦 𓂃 ࣪˖ִֶ  <br>
+      ࣪˖𓂃 𝘴𝘱𝘦𝘦𝘥𝘤𝘰𝘳𝘦, 𝘵𝘦𝘤𝘩𝘯𝘰  ࣪˖ ࣪ ₊  <br>
+      ♯ ⋮ 𝘣𝘰𝘰𝘮 𝘣𝘰𝘰𝘮 𝘢𝘯𝘥 𝘳𝘢𝘪𝘯𝘣𝘰𝘸𝘴!!! ㆍ ⸝⸝ 
+    </td>
+ <td width="40%" align="center" valign="middle" style="border: none;">
+      <a href="https://pvw.straw.page/">
+        <img src="https://u.cubeupload.com/RAAAAAA/85aDerpyhoovesMylittlep.png" alt="Description" width="40%"/>
     </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <a href="https://open.spotify.com/intl-fr/track/00W2ur3pdHI95muPTwvpns?si=8dfdebdf4e6c4b00">
-        <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify">
-      </a>
-    </td>
-    <td width="30%" align="right" valign="middle" style="border: none;">
-      ♪ ⸝⸝ 𝘫𝘶𝘴𝘵 𝘧𝘪𝘳𝘦 ! ㅤ࣭ ㅤׂ 
-    </td>
-  </tr>
+⢀⣰⣀⠀⠀⠀⠀⠀⠀⠀⠀ <br>
+⠀⠘⠀⠀⣶⡿⣷⣦⣾⣿⣧ <br>
+⠀⠀⠀⠀⠻⣧⠀⠛⠀⡘⠏ <br>
+⠀⠀⠀⠀⠀⠉⠳⣦⣮⠁⠀ <br>
+⠀⠀⠀⠀⠀⠀⠀⠉⠀⠠⡧ <br>
+⠀⠀⠀⠠⡥⠄⠀⠀⠀⠀⠀ <br>
+  </tr> 
 
 </table>
