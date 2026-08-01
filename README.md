@@ -1,7 +1,7 @@
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 0;">
 
   <div style="width: 30%; padding: 20px; box-sizing: border-box;">
-    ‿ִ⠀𐂯ॱ𓏽 𝘩𝘱𝘪, 𝘴𝘤𝘩𝘪𝘻𝘰𝘱𝘩𝘳𝘦𝘯𝘪𝘤, 𝘢𝘯𝘹𝘪𝘰𝘶𝘴, 𝘐𝘕𝘍𝘗! 𝘋𝘦𝘳𝘱𝘺𝘚𝘩𝘺 𝘴𝘩𝘪𝘱𝘱𝘦𝘳! 𝘐𝘵'𝘴 𝘈𝘔𝘈𝘛𝘖𝘙! 𝘴𝘶𝘣𝘳𝘭𝘱 𝘪𝘨𝘳𝘱 𝘣𝘭𝘶𝘦𝘴 𝘤𝘦𝘭𝘮
+    ‿ִ⠀𐂯ॱ𓏽 𝘩𝘱𝘪, 𝘴𝘤𝘩𝘪𝘻𝘰𝘱𝘩𝘳𝘦𝘯𝘪𝘤, 𝘢𝘯𝘹𝘪𝘰𝘶𝘴, 𝘐𝘕𝘍𝘗! 𝘋𝘦𝘳𝘱𝘺𝘚𝘩𝘺 𝘴𝘩𝘪𝘱𝘱𝘦[...]
   </div>
 
   <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box;">
@@ -23,17 +23,20 @@
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 0;">
 
   <div style="width: 30%; padding: 20px; box-sizing: border-box;">
-    ︵ ︵  𝘮𝘺 𝘧𝘢𝘷𝘴 𝘧𝘢𝘯𝘥𝘰𝘮𝘴 𝘢𝘳𝘦 : 𝘮𝘭𝘱, 𝘵𝘢𝘥𝘤, 𝘮𝘥, 𝘩𝘵𝘧, 𝘢𝘯𝘪𝘮𝘢𝘭 𝘩𝘰𝘴𝘱𝘪𝘵𝘢𝘭, 𝘨𝘨
+    ︵ ︵  𝘮𝘺 𝘧𝘢𝘷𝘴 𝘧𝘢𝘯𝘥𝘰𝘮𝘴 𝘢𝘳𝘦 : 𝘮𝘭𝘱, 𝘵𝘢𝘥𝘤, 𝘮𝘥, 𝘩𝘵𝘧, 𝘢𝘯𝘪𝘮𝘢𝘭 𝘩𝘰𝘴𝘱𝘪𝘵𝘢𝘭, ��[...] 
   </div>
 
-  <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box;">
+  <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; gap:10px;">
     <a href="https://discord.gg/fUEKRhs7Gf" target="_blank">
-      <img src="https://u.cubeupload.com/RAAAAAA/derpyhooves.gif" alt="Mon Spotify en direct" width="40%">
+      <img src="https://u.cubeupload.com/RAAAAAA/derpyhooves.gif" alt="Mon Discord" style="width:48%;"/>
+    </a>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=explicit" alt="Mon Spotify en direct" style="width:48%;"/>
     </a>
   </div>
 
   <div style="width: 30%; text-align: right; padding: 20px; box-sizing: border-box;">
-    𓂂 ˖ㅤㅤ۫ㅤ 𝘪𝘮 𝘢 𝘧𝘶𝘳𝘳𝘺 𝘩𝘦𝘩𝘦, 𝘮𝘺 𝘧𝘶𝘳𝘴𝘰𝘯𝘢 𝘪𝘴 𝘢 𝘴𝘩𝘢𝘳𝘬 𝘢𝘯𝘥 𝘩𝘪𝘴 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘠𝘶𝘨𝘢 <3
+    𓂂 ˖ㅤㅤ۫ㅤ 𝘪𝘮 𝘢 𝘧𝘶𝘳𝘳𝘺 𝘩𝘦𝘩𝘦, 𝘮𝘺 𝘧𝘶𝘳𝘴𝘰𝘯𝘢 𝘪𝘴 𝘢 𝘴𝘩𝘢𝘳𝘬 𝘢𝘯𝘥 𝘩𝘪𝘴 𝘯𝘢𝘮𝘦 𝘪[...]
   </div>
 
 </div>
@@ -83,8 +86,3 @@
 
 </div>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=explicit">
-  </a>
-</p>
