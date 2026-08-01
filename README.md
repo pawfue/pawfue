@@ -1,7 +1,7 @@
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 0;">
 
   <div style="width: 30%; padding: 20px; box-sizing: border-box;">
-    ‿ִ⠀𐂯ॱ𓏽 𝘩𝘱𝘪, 𝘴𝘤𝘩𝘪𝘻𝘰𝘱𝘩𝘳𝘦𝘯𝘪𝘤, 𝘢𝘯𝘹𝘪𝘰𝘶𝘴, 𝘐𝘕𝘍𝘗! 𝘋𝘦𝘳𝘱𝘺𝘚𝘩𝘺 𝘴𝘩𝘪𝘱𝘱𝘦[...]
+    ‿ִ⠀𐂯ॱ𓏽 𝘩𝘱𝘪, 𝘴𝘤𝘩𝘪𝘻𝘰𝘱𝘩𝘳𝘦𝘯𝘪𝘤, 𝘢𝘯𝘹𝘪𝘰𝘶𝘴, 𝘐𝘕𝘍𝘗! 𝘋𝘦𝘳𝘱𝘺𝘚𝘩𝘺 𝘴𝘩𝘪𝘱𝘱𝘦𝘳!
   </div>
 
   <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box;">
@@ -23,7 +23,7 @@
 <div style="display: flex; flex-wrap: wrap; width: 100%; gap: 0;">
 
   <div style="width: 30%; padding: 20px; box-sizing: border-box;">
-    ︵ ︵  𝘮𝘺 𝘧𝘢𝘷𝘴 𝘧𝘢𝘯𝘥𝘰𝘮𝘴 𝘢𝘳𝘦 : 𝘮𝘭𝘱, 𝘵𝘢𝘥𝘤, 𝘮𝘥, 𝘩𝘵𝘧, 𝘢𝘯𝘪𝘮𝘢𝘭 𝘩𝘰𝘴𝘱𝘪𝘵𝘢𝘭, ��[...] 
+    ︵ ︵  𝘮𝘺 𝘧𝘢𝘷𝘴 𝘧𝘢𝘯𝘥𝘰𝘮𝘴 𝘢𝘳𝘦 : 𝘮𝘭𝘱, 𝘵𝘢𝘥𝘤, 𝘮𝘥, 𝘩𝘵𝘧, 𝘢𝘯𝘪𝘮𝘢𝘭 𝘩𝘰𝘴𝘱𝘪𝘵𝘢𝘭 
   </div>
 
   <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; gap:10px;">
@@ -31,7 +31,7 @@
       <img src="https://u.cubeupload.com/RAAAAAA/derpyhooves.gif" alt="Mon Discord" style="width:48%;"/>
     </a>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=explicit" alt="Mon Spotify en direct" style="width:48%;"/>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=explicit" alt="Mon Spotify en direct" style="width:20%;"/>
     </a>
   </div>
 
