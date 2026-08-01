@@ -6,7 +6,7 @@
 
   <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box;">
     <a href="https://guns.lol/pawfue">
-      <img src="https://u.cubeupload.com/RAAAAAA/Derpyistryingtogetam.png" alt="Aperçu de mon site" width="100%">
+      <img src="https://u.cubeupload.com/RAAAAAA/Derpyistryingtogetam.png" alt="Aperçu de mon site" width="50%">
     </a>
   </div>
 
