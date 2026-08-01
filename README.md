@@ -27,10 +27,13 @@
     ︵ ︵  𝘮𝘺 𝘧𝘢𝘷𝘴 𝘧𝘢𝘯𝘥𝘰𝘮𝘴 𝘢𝘳𝘦 : 𝘮𝘭𝘱, 𝘵𝘢𝘥𝘤, 𝘮𝘥, 𝘩𝘵𝘧, 𝘢𝘯𝘪𝘮𝘢𝘭 𝘩𝘰𝘴𝘱𝘪𝘵𝘢𝘭 <br>
     ↓ 𝘥𝘪𝘴𝘤𝘰𝘳𝘥 𝘴𝘦𝘳𝘷𝘦𝘳! ↓
   </div>
-
-  <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; gap:10px;">
+ <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; gap:10px;">
     <a href="https://discord.gg/fUEKRhs7Gf" target="_blank">
       <img src="https://u.cubeupload.com/RAAAAAA/derpyhooves.gif" alt="Mon Discord" style="width:48%;"/>
+         </a>
+  <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; gap:10px;">
+    <a href="https://discord.gg/fUEKRhs7Gf" target="_blank">
+      <img src="https://u.cubeupload.com/RAAAAAA/ponytownIWCdance4bli.gif" alt="Mon Discord" style="width:70%;"/>
     </a>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=explicit" alt="Mon Spotify en direct" style="width:35%;"/>
