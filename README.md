@@ -67,6 +67,11 @@
       <img src="https://i.pinimg.com/1200x/34/1e/cf/341ecfde6cf28792022fe5f669bcabd8.jpg" alt="Mon Discord" style="width:30%;"/>
     </a>
 
+ <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; gap:10px;">
+    <a href="https://discord.gg/fUEKRhs7Gf" target="_blank">
+      <img src="https://i.pinimg.com/1200x/d7/0a/63/d70a6325e1a5204cd5a51454e5e0b79e.jpg" alt="Mon Discord" style="width:30%;"/>
+    </a>
+
 
     
   <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box; gap:10px;">
@@ -119,7 +124,7 @@
 
   <div style="width: 40%; display: flex; justify-content: center; align-items: center; padding: 20px; box-sizing: border-box;">
     <a href="https://eyesdontlie.straw.page">
-      <img src="https://i.pinimg.com/1200x/d7/0a/63/d70a6325e1a5204cd5a51454e5e0b79e.jpg" alt="Description" width="30%"/>
+      <img src="https://i.pinimg.com/originals/a4/c1/ea/a4c1eac8431c93dda6be1e7235901011.gif" alt="Description" width="30%"/>
     </a>
   </div>
 
