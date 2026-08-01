@@ -33,7 +33,7 @@
       <img src="https://u.cubeupload.com/RAAAAAA/derpyhooves.gif" alt="Mon Discord" style="width:48%;"/>
     </a>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=explicit" alt="Mon Spotify en direct" style="width:20%;"/>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31a2tq4gpytn7mxarkrvka5nt23u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=explicit" alt="Mon Spotify en direct" style="width:35%;"/>
     </a>
   </div>
 
